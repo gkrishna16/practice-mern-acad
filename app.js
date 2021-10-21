@@ -24,5 +24,3 @@ const start = async () => {
 };
 
 start();
-
-// commit
